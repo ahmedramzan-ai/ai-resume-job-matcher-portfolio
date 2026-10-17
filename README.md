@@ -1,6 +1,6 @@
 # AI Resume Job Matcher
 
-🚀 **[Live Demo](https://ai-resume-job-matcher-abinaya.streamlit.app/)**
+🚀 **[Live Demo](https://ai-resume-job-matcher-portfolio-njsp3dzybkdk76tmqbfs4z.streamlit.app/)**
 
 # AI Resume–Job Match & Skill Gap Analyzer
 
