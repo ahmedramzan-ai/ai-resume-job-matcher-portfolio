@@ -1,0 +1,49 @@
+Anitha Kumar
+3rd Year B.Tech - Computer Science Engineering (AI & Data Science)
+anitha.kumar@example.com | +91-98765-43210 | github.com/anithakumar
+
+EDUCATION
+B.Tech in Computer Science Engineering (AI & Data Science), 2023-2027
+XYZ Institute of Technology, Coimbatore
+CGPA: 8.4 / 10
+
+TECHNICAL SKILLS
+Programming Languages: Python, Java, C++
+Web Development: HTML, CSS, Flask
+Databases: SQL, MySQL
+Data Science: Pandas, NumPy, Matplotlib, Scikit-learn, Data Analysis
+Machine Learning: Machine Learning, Natural Language Processing
+Tools: Git, GitHub, VS Code, Jupyter Notebook, Streamlit
+Fundamentals: Data Structures, Algorithms, Object-Oriented Programming
+
+PROJECTS
+Student Result Analyzer (Python, Pandas, Matplotlib)
+- Built a Python application to analyze and visualize semester-wise
+  student performance data using Pandas and Matplotlib.
+- Automated report generation for over 200 student records.
+
+Movie Recommendation System (Python, Scikit-learn, NLP)
+- Implemented a content-based recommendation system using TF-IDF and
+  cosine similarity with Scikit-learn.
+- Applied basic Natural Language Processing techniques to movie
+  descriptions to generate recommendations.
+
+Personal Portfolio Website (HTML, CSS, Flask)
+- Designed and deployed a personal portfolio website using HTML, CSS,
+  and Flask.
+- Used Git and GitHub for version control throughout development.
+
+INTERNSHIP / TRAINING
+Summer Training - Data Analysis with Python (4 weeks)
+- Completed a hands-on training program covering Python, Pandas,
+  NumPy, and basic Machine Learning using Scikit-learn.
+
+EXTRA-CURRICULAR
+- Core member, College Coding Club - organized 2 workshops on Python
+  and Data Structures for junior students.
+- Participated in a 24-hour hackathon focused on data analysis
+  projects.
+
+CERTIFICATIONS
+- Python for Data Science (online certification)
+- Introduction to Machine Learning (online certification)

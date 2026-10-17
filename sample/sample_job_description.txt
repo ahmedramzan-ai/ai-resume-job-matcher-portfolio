@@ -1,0 +1,40 @@
+Software Engineering Intern - Data & AI Team
+
+We are looking for a motivated Software Engineering Intern to join our
+Data & AI team for a 6-month internship. This is a great opportunity
+for a student who enjoys building practical, data-driven applications.
+
+Responsibilities:
+- Assist in building and maintaining Python-based backend services.
+- Work with SQL databases (MySQL/PostgreSQL) to query and analyze data.
+- Support the development of REST APIs used by internal tools.
+- Contribute to data analysis and visualization using Pandas, NumPy,
+  and Matplotlib.
+- Collaborate with the team using Git and GitHub for version control.
+- Assist in applying basic Machine Learning and Natural Language
+  Processing techniques such as TF-IDF and Scikit-learn models to
+  internal text-analysis projects.
+- Write clean, well-documented, and testable code.
+- Participate in Agile/Scrum ceremonies and daily standups.
+
+Requirements:
+- Currently pursuing a B.Tech/B.E. in Computer Science, AI & Data
+  Science, or a related field.
+- Strong foundation in Python programming and Data Structures &
+  Algorithms.
+- Familiarity with SQL and relational databases.
+- Basic understanding of Machine Learning and NLP concepts.
+- Experience with Pandas, NumPy, and Scikit-learn is a plus.
+- Understanding of REST APIs and web development basics (Flask/Django)
+  is a plus.
+- Knowledge of AWS or cloud computing basics is a plus but not
+  mandatory.
+- Familiarity with Docker and CI/CD pipelines is a bonus.
+- Good communication and problem-solving skills.
+
+What You'll Gain:
+- Real-world experience working on production-grade Python
+  applications.
+- Mentorship from senior engineers and data scientists.
+- Exposure to the full software development lifecycle, from Git-based
+  version control to cloud deployment.

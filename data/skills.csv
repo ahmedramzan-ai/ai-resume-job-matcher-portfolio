@@ -1,0 +1,119 @@
+skill,category
+Python,Programming
+Java,Programming
+C,Programming
+C++,Programming
+C#,Programming
+JavaScript,Programming
+TypeScript,Programming
+Go,Programming
+Rust,Programming
+PHP,Programming
+R,Programming
+Kotlin,Programming
+Swift,Programming
+Scala,Programming
+MATLAB,Programming
+Bash,Programming
+Shell Scripting,Programming
+HTML,Web
+CSS,Web
+Django,Web
+Flask,Web
+FastAPI,Web
+REST API,Web
+Node.js,Web
+Express.js,Web
+React,Web
+Angular,Web
+Vue.js,Web
+Bootstrap,Web
+Tailwind CSS,Web
+jQuery,Web
+GraphQL,Web
+SQL,Database
+MySQL,Database
+PostgreSQL,Database
+MongoDB,Database
+Oracle,Database
+SQLite,Database
+Redis,Database
+Cassandra,Database
+Firebase,Database
+Database Design,Database
+Machine Learning,AI
+Deep Learning,AI
+Natural Language Processing,AI
+Computer Vision,AI
+Neural Networks,AI
+Reinforcement Learning,AI
+Generative AI,AI
+Large Language Models,AI
+TensorFlow,AI
+PyTorch,AI
+Keras,AI
+OpenCV,AI
+Hugging Face,AI
+Pandas,Data Science
+NumPy,Data Science
+Matplotlib,Data Science
+Seaborn,Data Science
+Scikit-learn,Data Science
+Data Analysis,Data Science
+Data Visualization,Data Science
+Statistics,Data Science
+Data Cleaning,Data Science
+Feature Engineering,Data Science
+Data Wrangling,Data Science
+Power BI,Data Science
+Tableau,Data Science
+Excel,Data Science
+Big Data,Data Science
+Hadoop,Data Science
+Spark,Data Science
+AWS,Cloud
+Azure,Cloud
+Google Cloud,Cloud
+Cloud Computing,Cloud
+EC2,Cloud
+S3,Cloud
+Lambda,Cloud
+Cloud Deployment,Cloud
+Git,DevOps
+GitHub,DevOps
+GitLab,DevOps
+Docker,DevOps
+Kubernetes,DevOps
+CI/CD,DevOps
+Jenkins,DevOps
+Terraform,DevOps
+Linux,DevOps
+Nginx,DevOps
+Ansible,DevOps
+Data Structures,Computer Science Fundamentals
+Algorithms,Computer Science Fundamentals
+Object-Oriented Programming,Computer Science Fundamentals
+Operating Systems,Computer Science Fundamentals
+Computer Networks,Computer Science Fundamentals
+DBMS,Computer Science Fundamentals
+System Design,Computer Science Fundamentals
+Software Engineering,Computer Science Fundamentals
+Design Patterns,Computer Science Fundamentals
+Time Complexity Analysis,Computer Science Fundamentals
+Agile,Soft Skills
+Scrum,Soft Skills
+Problem Solving,Soft Skills
+Team Collaboration,Soft Skills
+Communication,Soft Skills
+Project Management,Soft Skills
+Leadership,Soft Skills
+Critical Thinking,Soft Skills
+Jira,Tools
+Postman,Tools
+VS Code,Tools
+Jupyter Notebook,Tools
+Streamlit,Tools
+Android Development,Mobile
+iOS Development,Mobile
+Flutter,Mobile
+React Native,Mobile
